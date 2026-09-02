@@ -5,4 +5,3 @@
 
 ### root@TheBaconSandwich:~$ ls -la /projects/
 > [Secure-Chat] End-to-End Encrypted Messaging
-> [NIST-Auditor] Automated Compliance Scripts
